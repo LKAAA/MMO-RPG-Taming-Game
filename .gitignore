@@ -41,6 +41,7 @@ PBGet/*-*
 
 # Visual Studio 2015/2017 cache/options directory
 /.vs
+/.vs/
 /.vscode
 /*.code-workspace
 
@@ -322,3 +323,7 @@ RELEASE_MSG
 
 .vsconfig
 .idea/*
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
